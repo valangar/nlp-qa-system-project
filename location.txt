@@ -1,0 +1,409 @@
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+AL
+Alaska
+Ariz.
+Ark.
+Calif.
+Colo.
+Conn.
+Del.
+Fla.
+Ga.
+Hawaii
+Idaho
+Ill.
+Ind.
+Iowa
+Kans.
+Ky.
+La.
+Maine
+Md.
+Mass.
+Mich.
+Minn.
+Miss.
+Mo.
+Mont.
+Nebr.
+Nev.
+N.H.
+N.J.
+N.M.
+N.Y.
+N.C.
+N.D.
+Ohio
+Okla.
+Ore.
+Pa.
+R.I.
+S.C.
+S.D.
+Tenn.
+Tex.
+Utah
+Vt.
+Va.
+Wash.
+W.Va.
+Wis.
+Wyo.
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+Saskatoon
+Juneau
+Phoenix
+Little Rock
+Sacramento
+Denver
+Hartford
+Dover
+Tallahassee
+Atlanta
+Honolulu
+Boise
+Springfield
+Indianapolis
+Des Moines
+Topeka
+Frankfort
+Baton Rouge
+Augusta
+Annapolis
+Boston
+Lansing
+St. Paul
+Jackson
+Jefferson City
+Helena
+Lincoln
+Carson City
+Concord
+Trenton
+Santa Fe
+Albany
+Raleigh
+Bismarck
+Columbus
+Oklahoma City
+Salem
+Harrisburg
+Providence
+Columbia
+Pierre
+Nashville
+Austin
+Salt Lake City
+Montpelier
+Richmond
+Olympia
+Charleston
+Madison
+Montgomery
+Africa
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Barbuda
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Bissau
+Guyana
+Haiti
+Herzegovina
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua
+New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Samoa
+San Marino
+Sao Tome
+Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St. Kitts and Nevis
+St. Lucia
+St. Vincent
+Grenadines
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+U.A.E
+U.S.A
+UAE
+Uganda
+UK
+Ukraine
+United Arab Emirates
+United Kingdom
+United States of America
+Uruguay
+USA
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+Liverpool

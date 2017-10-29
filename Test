@@ -1,0 +1,54 @@
+git add
+--- commit
+--- pull
+manual merge
+--- push
+
+
+
+---------------------------------
+1. Who in lower case.. will that cause problems if "who" is not the starting word of the sentence?
+2. Creater own parser..
+3. Make sure not to remove the stop words in the sentence for the rules.
+4. pROPER NOUN IDENTIFICATION - MAKE A NAME
+5. Automate readfile
+6. Refine your PROPER_NOUN list. Currently it is sum of HUMAN and OCC
+
+
+TO DO LIST:
+1. Get the output in the right form
+2.# Make a stemmer
+3. Strip the answer of stop words
+4. Deal with HOW rules
+5. Check if already written rules are correct
+6. Deal with verb forms in question itself
+7. Pipe and print all the good answers
+8. consecutively occuring nouns - give just one weight
+9. CHECK FOR NONE CONDITIONS IN THE RULES
+10. HHOW OLD RULES - VARSHA
+11. WHEN AND WHO RULES - HARSHI
+12. adding did questions...
+13. why question: check for because, since...and score accordingly
+
+
+
+
+instead of py or python in cade, use the path: /usr/local/stow/python/amd64_linux26/python-3.5.0/bin/python3
+or
+/usr/local/stow/python/amd64_linux26/python-2.7.3/bin/python
+
+
+then to install nltk as:
+usr/local/stow/python/amd64_linux26/python-3.5.0/bin/python3 -m nltk.downloader -d /home/$USER/nltk_data all
+
+
+#Varsha - input_file path: C:\Users\Varsha\PycharmProjects\NLP\nlp_daringduck\developset
+
+
+NEED NLTK in cade machine..nltk is available in the python 3 version and so, need to use the above path to execute the file
+If it doesn't run and gives a "pickle error", then we need some packages in nltk:
+1. type in the path for the specific python3
+2. type import nltk
+3. type nltk.download()
+4. if it asks for a package , type all (this will take a few mins)
+5. then execute the file.

@@ -1,0 +1,40 @@
+__author__ = 'Varsha'
+from os import listdir
+#from sets import Set
+from os.path import isfile, join
+
+path = "C:/Users/Varsha/PycharmProjects/NLP/nlp_daringduck/testset1"
+qids = set([])
+
+for f in listdir(path):
+    if isfile(join(path,f)):
+        qids.add(f.replace(".story","").replace(".answers","").replace(".questions",""))
+
+#print qids
+
+
+tar = open("input",'w')
+tar.write(path)
+tar.write("\n")
+for q in qids:
+    tar.write(q)
+    tar.write("\n")
+
+tar.close()
+
+# get answerkey
+
+tar = open("answerKey",'w')
+for q in qids:
+    ans = open(join(path,q + ".answers"))
+    txt = ans.readlines()
+    for l in txt:
+        tar.write(l)
+    tar.write("\n")
+tar.close()
+
+
+
+
+
+
