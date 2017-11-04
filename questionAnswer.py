@@ -1,6 +1,6 @@
 # This is a Question answer system
 
-# read the input file
+# read the input file 
 import nltk
 #nltk.data.path.append("/home/alangar/nltk_data")
 from sys import argv
